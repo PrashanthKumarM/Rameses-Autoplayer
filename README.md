@@ -6,7 +6,7 @@ This code plays the game automatically with perfect play every time in extremely
 
 Feed the current status of the rameses board as a linear string of 'x' and '.'. For example:
 
-X...X..X..
+x...x..x..
 
 the next move will be given with the state of board after the move.
 
@@ -15,6 +15,7 @@ the program is to be run as below:
 				$ python rameses.py <size of board> <current board state> <max time>
 
 Max time is expected eventhough it will not be of much significance as time taken is always within a second.
+
 Example:
 
 				$ python rameses.py 3 .x......x 5
