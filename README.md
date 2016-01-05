@@ -20,4 +20,4 @@ Example:
 
 				$ python rameses.py 3 .x......x 5
 
-(Based on the problem statement in Assignment 2 of CSCI B-551 Elements of Artificial Intelligence by Professor David J Crandall, Indiana University, Bloomington)
+(Based on the problem statement in CSCI B-551 Elements of Artificial Intelligence by Professor David J Crandall, Indiana University, Bloomington)
